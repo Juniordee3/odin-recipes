@@ -1,0 +1,41 @@
+* {
+    background-color: #f6d8ac;
+}
+
+body {
+    text-align: center;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 64px;
+    color: #2a6592;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+ul, ol {
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    font-size: 24px;
+}
+
+ul {
+    width: 40%;
+}
+
+.desc {
+    margin: auto;
+    width: 40%;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.home {
+    color: #7e9a9a;
+    font-weight: 800;
+    font-size: 32px;
+}
